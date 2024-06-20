@@ -51,12 +51,5 @@
     <li>Voting Regressor</li>
 </ul>
 
-<h2>Getting Started</h2>
-<ol>
-    <li>Clone the repository to your local machine.</li>
-    <li>Install the required dependencies listed in <code>requirements.txt</code>.</li>
-    <li>Run the Jupyter notebook <code>laptop_price_prediction.ipynb</code> to explore the analysis and models.</li>
-</ol>
-
 <h2>Conclusion</h2>
 <p>Through this project, we were able to develop machine learning models that predict laptop prices with reasonable accuracy. The best-performing model can be used for real-world applications such as pricing optimization, market analysis, and budget planning.</p>
